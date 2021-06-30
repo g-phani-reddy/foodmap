@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/foodmap/static/css/main.a462ac09.chunk.css",
+    "main.js": "/foodmap/static/js/main.321b47d7.chunk.js",
+    "main.js.map": "/foodmap/static/js/main.321b47d7.chunk.js.map",
+    "runtime-main.js": "/foodmap/static/js/runtime-main.dbcc47fb.js",
+    "runtime-main.js.map": "/foodmap/static/js/runtime-main.dbcc47fb.js.map",
+    "static/css/2.c1f4f5f4.chunk.css": "/foodmap/static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.c9d16355.chunk.js": "/foodmap/static/js/2.c9d16355.chunk.js",
+    "static/js/2.c9d16355.chunk.js.map": "/foodmap/static/js/2.c9d16355.chunk.js.map",
+    "static/js/3.a70533e0.chunk.js": "/foodmap/static/js/3.a70533e0.chunk.js",
+    "static/js/3.a70533e0.chunk.js.map": "/foodmap/static/js/3.a70533e0.chunk.js.map",
+    "index.html": "/foodmap/index.html",
+    "static/css/2.c1f4f5f4.chunk.css.map": "/foodmap/static/css/2.c1f4f5f4.chunk.css.map",
+    "static/css/main.a462ac09.chunk.css.map": "/foodmap/static/css/main.a462ac09.chunk.css.map",
+    "static/js/2.c9d16355.chunk.js.LICENSE.txt": "/foodmap/static/js/2.c9d16355.chunk.js.LICENSE.txt",
+    "static/media/Idly.49b576c6.jpg": "/foodmap/static/media/Idly.49b576c6.jpg",
+    "static/media/Punugulu.2f7290a8.jpg": "/foodmap/static/media/Punugulu.2f7290a8.jpg",
+    "static/media/chicken_biryani.b9b831d7.jpg": "/foodmap/static/media/chicken_biryani.b9b831d7.jpg",
+    "static/media/dosa.3201e634.jpg": "/foodmap/static/media/dosa.3201e634.jpg",
+    "static/media/egg_biryani.581ba979.jpg": "/foodmap/static/media/egg_biryani.581ba979.jpg",
+    "static/media/mutton_biryani.7fb9f306.jpg": "/foodmap/static/media/mutton_biryani.7fb9f306.jpg",
+    "static/media/poori.99339bf1.png": "/foodmap/static/media/poori.99339bf1.png",
+    "static/media/ragi_mudhe.e341a0e6.jpg": "/foodmap/static/media/ragi_mudhe.e341a0e6.jpg",
+    "static/media/sambar_rice.c5adaf55.jpg": "/foodmap/static/media/sambar_rice.c5adaf55.jpg",
+    "static/media/vada.362bcca8.jpg": "/foodmap/static/media/vada.362bcca8.jpg",
+    "static/media/veg_biryani.3b365afc.jpg": "/foodmap/static/media/veg_biryani.3b365afc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dbcc47fb.js",
+    "static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.c9d16355.chunk.js",
+    "static/css/main.a462ac09.chunk.css",
+    "static/js/main.321b47d7.chunk.js"
+  ]
+}
